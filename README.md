@@ -1,26 +1,26 @@
 # Tarek Bin Zubaier
 
-I'm a software developer and product builder based in Doha, Qatar.
+I'm a software developer, product builder, and founder based in Doha, Qatar.
 
-I build software around real business problems, from internal tools and operational systems to SaaS products and web applications.
+I build software around real business problems. Most of what I work on comes from direct experience with operational workflows, where messy spreadsheets, manual processes, and fragmented tools slow people down.
 
-I'm particularly interested in turning complex, manual workflows into simple, useful software.
+I don't build software just for the sake of writing code. I build things around problems I've actually seen, with the goal of making complicated manual work simpler and easier to manage.
 
 ---
 
 ## What I Build
 
 - **Business & Operations**  
-  Internal tools and systems for workforce management, HR, payroll, salary ledgers, expenses, and fleet operations.
+  Internal tools, workflows, and administrative systems for workforce tracking, payroll, salary ledgers, expenses, and fleet operations.
 
 - **Web Applications & SaaS**  
-  Full-stack applications with a focus on practical workflows, reliable data, and clean interfaces.
+  Full-stack products built from the ground up, with a focus on practical workflows, reliable data, and clean interfaces.
 
-- **Developer Tools**  
-  Small, focused tools that solve real engineering and security problems.
+- **Developer & Security Tools**  
+  Focused utilities that solve practical engineering, encryption, and repository security problems.
 
 - **Digital Products & Commerce**  
-  Web products and e-commerce systems built through FOOAV.
+  Web applications, e-commerce systems, and digital tools built through my studio, FOOAV.
 
 ---
 
@@ -28,23 +28,25 @@ I'm particularly interested in turning complex, manual workflows into simple, us
 
 ### [Git Cloak](https://github.com/tarek7b/git-cloak)
 
-A TypeScript CLI for keeping selected files encrypted inside public Git repositories.
+A TypeScript CLI for keeping selected sensitive files encrypted inside public Git repositories.
 
-Uses AES-256-GCM encryption and Git hooks to keep tracked sensitive files out of plaintext Git history.
+It uses AES-256-GCM and Git hooks to keep sensitive files out of plaintext Git history.
 
 **Stack:** TypeScript · Node.js · Git · AES-256-GCM
 
 ### OpsLedger
 
-A business operations platform I'm building around real-world workflows for workforce management, HR, payroll, salary ledgers, fleet operations, and expenses.
+A business operations platform I am building around real-world operational workflows.
+
+I'm building it around the kind of day-to-day business problems I've actually dealt with, including workforce management, HR records, payroll calculations, salary ledgers, fleet operations, and company expenses.
 
 **Stack:** Next.js · React · Supabase · PostgreSQL · Tailwind CSS
 
 ### FOOAV
 
-A digital studio where I build websites, e-commerce systems, custom software, and digital products.
+My digital studio where I design and build custom software, web applications, e-commerce systems, and digital products.
 
-**Focus:** Web applications · E-commerce · Business software
+**Focus:** Web applications · E-commerce systems · Business software
 
 ---
 
@@ -66,15 +68,17 @@ Git · Docker
 
 ## Currently Building
 
-- OpsLedger and business operations tooling
-- Developer and security utilities
-- Digital products and commerce systems through FOOAV
+- Developing **OpsLedger** and refining its core ledger and workforce workflows.
+- Building small security and developer tools for problems I come across while working.
+- Building new web products and commerce systems through **FOOAV**.
 
 ---
 
 ## Connect
 
+If you'd like to talk about software, business systems, or potential collaboration:
+
 **Website:** [tarek7b.com](https://tarek7b.com)  
 **GitHub:** [github.com/tarek7b](https://github.com/tarek7b)  
 **Studio:** FOOAV  
-**Based in:** Doha, Qatar
+**Location:** Doha, Qatar
