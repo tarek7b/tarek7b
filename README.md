@@ -40,12 +40,6 @@ A business operations platform I'm building around real-world workflows for work
 
 **Stack:** Next.js · React · Supabase · PostgreSQL · Tailwind CSS
 
-### [PDF Editor](https://github.com/tarek7b/pdfeditor)
-
-A small PHP-based utility for working with uploaded documents and receipts.
-
-**Stack:** PHP · Composer
-
 ### FOOAV
 
 A digital studio where I build websites, e-commerce systems, custom software, and digital products.
